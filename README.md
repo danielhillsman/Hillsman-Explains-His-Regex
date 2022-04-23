@@ -5,7 +5,6 @@ I display this regex code: ***/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/*
 
 ## Table of Contents
 - [Description](#description)
-- [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [GistLink](#livelink)
